@@ -7,5 +7,5 @@ int main(){
             cout<<"*"<<" ";// printing stars
         }
         cout<<endl; //jumping into the next row or next line
-    }
+    }// ended
 }
